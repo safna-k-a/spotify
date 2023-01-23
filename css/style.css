@@ -1,0 +1,26 @@
+body{
+	background-color:#59c1bd;
+}
+
+table,td,th{
+			font-family:sans-serif;
+			border:3px solid #59c1bd;
+			background-color:#a0e4cb;
+			border-collapse:collapse;
+			text-align:center;
+			height: 35px;			
+
+			
+}
+
+table{
+	width:100%;
+}
+
+h1,p{
+	font-family:candara;
+	
+}
+img{
+	width:100px;
+}
